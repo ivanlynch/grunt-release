@@ -1,6 +1,6 @@
 {
   "name": "grunt-release",
-  "version": "0.14.1",
+  "version": "0.14.2",
   "description": "Release a new version of your Node-based project",
   "main": "Gruntfile.js",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/geddski/grunt-release.git"
+    "url": "https://github.com/ivanlynch/grunt-release.git"
   },
   "keywords": [
     "gruntplugin",
